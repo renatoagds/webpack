@@ -28,6 +28,7 @@ const printData = async (data, indent) => {
 		}
 		return;
 	}
+
 	let currentReference = 0;
 	let currentTypeReference = 0;
 	let i = 0;
